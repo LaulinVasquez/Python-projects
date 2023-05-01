@@ -1,1 +1,1 @@
-# Python-projects
+# This is a personal section of mini Python personal projects
